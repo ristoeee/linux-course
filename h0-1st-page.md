@@ -1,4 +1,4 @@
-# h1 - 1st Page
+# 1st Page
 
 The 1st page of the course
 
